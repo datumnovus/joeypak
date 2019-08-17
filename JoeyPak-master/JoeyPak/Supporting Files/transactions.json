@@ -1,0 +1,29 @@
+[
+     {
+         "_id": "1",
+         "to" : "-1",
+         "from" : "10214562785649752",
+         "value" : 101,
+         "date" : 1503186183,
+         "description" : "Groceries, mixers",
+         "status" : 1,
+     },
+     {
+         "_id": "2",
+         "to" : "10214562785649752",
+         "from" : "-1",
+         "value" : 4000,
+         "date" : 1503175383,
+         "description" : "Rent",
+         "status" : 1,
+     },
+     {
+         "_id": "3",
+         "to" : "10155113070154075",
+         "from" : "10214562785649752",
+         "value" : 40,
+         "date" : 1502829783,
+         "description" : "Disney World 🐭",
+         "status" : 0,
+     }
+]
